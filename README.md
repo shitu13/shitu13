@@ -15,7 +15,21 @@ C, C++, Java, Python, MySQL
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shitu_13)
 
 ## My github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shitu13)](https://github.com/shitu13/github-readme-stats)
+
+
+
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=shitu13&show_icons=true&locale=en" alt="shitu13"/> </td>
+       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shitu13&show_icons=true&locale=en&layout=compact" alt="shitu13"/> </td>
+     </tr>
+   </table>
+</p>
 
 
 
