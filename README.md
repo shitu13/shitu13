@@ -14,4 +14,11 @@ C, C++, Java, Python, MySQL
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shitu_13)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shitu_13)
 
+## My github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shitu13)](https://github.com/shitu13/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shitu13&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+
+
+
