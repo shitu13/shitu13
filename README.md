@@ -34,8 +34,7 @@ C, C++, Java, Python, MySQL
    </table>
 </p>
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shitu13&theme=github-light_radius=7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
