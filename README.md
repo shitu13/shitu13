@@ -16,7 +16,7 @@ C, C++, Java, Python, MySQL
 
 ## My github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shitu13)](https://github.com/shitu13/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shitu13&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
