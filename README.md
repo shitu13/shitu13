@@ -1,8 +1,8 @@
 # Hi, This is Shuvongkar Roy! 👋
 
 
-I'm from Bangladesh, I'm currently into Software development and management. But I have a very keen interest in world of data. Like data analysis,
-data modification, data manipulation etc. Currently I’m learning python. I love to talk about movie, music and football. 
+I'm from Bangladesh, I'm currently into Software development and management. However, I have a very keen interest in the world of data. Like data analysis,
+data modification, data manipulation, etc. Currently, I’m learning Python. I love to talk about movies, music, and football. 
 
 ## 🛠 Skills
 C, C++, Java, Python, MySQL
