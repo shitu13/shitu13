@@ -2,7 +2,7 @@
 
 
 I'm from Bangladesh, I'm currently into Software development and management. However, I have a very keen interest in the world of data. Like data analysis,
-data modification, data manipulation, etc. Currently, I’m learning Python. I love to talk about movies, music, and football. 
+data modification, data manipulation, etc. Currently, I’m learning ASP .NET. I love to talk about movies, music, and football. 
 
 ## 🛠 Stacks
 
