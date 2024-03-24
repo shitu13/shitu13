@@ -13,7 +13,7 @@ void life(Node* crisis) {
             "Eventually you will learn to handle it";
     }
     
-    void life(crisis->next);
+    life(crisis->next);
 }
 ```
 ## 🛠 Stacks
