@@ -14,7 +14,6 @@ void life(Node* crisis) {
     }
     
     void life(crisis->next);
-    return;
 }
 ```
 ## 🛠 Stacks
