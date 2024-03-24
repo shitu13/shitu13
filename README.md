@@ -10,7 +10,8 @@ void life(crisis!=NULL) {
   finally() 
     "Eventually you will learn to handle it";
 
-  return crisis->next;
+  void life(crisis->next);
+  return;
 }
 ```
 ## 🛠 Stacks
