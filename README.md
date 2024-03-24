@@ -2,7 +2,7 @@
 ```C++
 I write <code> 
  
-void life(!NULL) {
+void life(crisis!=NULL) {
   try 
     "Handle it";
   catch (exception e) 
@@ -10,7 +10,7 @@ void life(!NULL) {
   finally() 
     "Eventually you will learn to handle it";
 
-  return Life->next;
+  return crisis->next;
 }
 ```
 ## 🛠 Stacks
