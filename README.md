@@ -1,9 +1,18 @@
 # Hi, This is Shuvongkar Roy! 👋
+```C++
+I write <code> 
+ 
+void life(!NULL) {
+  try 
+    "Handle it";
+  catch (exception e) 
+    "Learn to handle it";
+  finally() 
+    "Eventually you will learn to handle it";
 
-
-I'm from Bangladesh, I'm currently into Software development and management. However, I have a very keen interest in the world of data. Like data analysis,
-data modification, data manipulation, etc. Currently, I’m learning ASP .NET. I love to talk about movies, music, and football. 
-
+  return Life->next;
+}
+```
 ## 🛠 Stacks
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
