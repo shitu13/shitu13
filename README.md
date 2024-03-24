@@ -2,16 +2,19 @@
 ```C++
 I write <code> 
  
-void life(crisis!=NULL) {
-  try 
-    "Handle it";
-  catch (exception e) 
-    "Learn to handle it";
-  finally() 
-    "Eventually you will learn to handle it";
+void life(Node* crisis) {
 
-  void life(crisis->next);
-  return;
+    while (crisis->val) {
+        try 
+            "Handle it";
+        catch (exception e) 
+            "Learn to handle it";
+        finally() 
+            "Eventually you will learn to handle it";
+    }
+    
+    void life(crisis->next);
+    return;
 }
 ```
 ## 🛠 Stacks
