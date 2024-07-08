@@ -6,7 +6,7 @@
  
 void life(Node* problem) {
 
-    while (problem->val) {
+    while (!problem->val) {
         try 
             "Handle it";
         catch (Exception e) 
@@ -35,7 +35,7 @@ Feel free to check out my progress on various coding platforms. Btw, I mostly us
 - [HackerRank](https://www.hackerrank.com/profile/reddevil11)
 - [CODEFORCES](https://codeforces.com/profile/Red_Devil11)
 
-You can always hit me up on [Linkedin](https://leetcode.com/u/shitu13/). To Know more about my experiences check out [My Resume](https://drive.google.com/file/d/1uw_AxdomLObNnsSusX71RJKKlLjfGBTT/view?usp=sharing).
+You can always hit me up on [Linkedin](https://www.linkedin.com/in/shitu13/). To Know more about my experiences check out [My Resume](https://drive.google.com/file/d/1uw_AxdomLObNnsSusX71RJKKlLjfGBTT/view?usp=sharing).
 
 ## 🛠 Languages and Tools:
 
