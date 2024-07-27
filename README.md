@@ -30,7 +30,7 @@ Metaphysical Poetry apart, I have a sound understanding of the following core CS
 
 ## 🛠 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,dotnet,react,redux,java,js,ts,cs,py,c,cpp,maven,npm,appwrite,firebase,mongodb,mysql,postgres,vite,html,css,bootstrap,tailwind,docker,git,github,visualstudio,vscode,idea,eclipse,postman,linux,ubuntu&theme=light&perline=12)]()
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,dotnet,react,redux,java,js,ts,cs,py,c,cpp,maven,npm,appwrite,firebase,mongodb,mysql,postgres,vite,html,css,bootstrap,tailwind,docker,git,github,visualstudio,vscode,idea,eclipse,postman,linux,ubuntu&theme=light&perline=15)]()
 
 ## 👨 Socials
 Feel free to check out my progress on various coding platforms. Btw, I mostly use leetcode nowadays. You can find all my problem solving stats on  [Codolio.](https://codolio.com/profile/shitu)
