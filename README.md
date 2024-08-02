@@ -6,7 +6,7 @@
  
 void life(Node* problem) {
 
-    while (!problem->val) {
+    while (problem->val) {
         try 
             "Handle it";
         catch (Exception e) 
