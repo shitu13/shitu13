@@ -35,4 +35,4 @@ Metaphysical Poetry apart, I have a sound understanding of the following core CS
 ## 👨 Socials
 Feel free to check out my progress on various coding platforms. Btw, I mostly use leetcode nowadays. You can find all my problem solving stats on  [Codolio.](https://codolio.com/profile/shitu)
 
-You can always hit me up on [Linkedin](https://www.linkedin.com/in/shitu13/). To Know more about my experiences check out [My Resume](https://drive.google.com/file/d/1YxTqjQFTUXXLjgyS7mQ_V-8Q7r7lqnyo/view?usp=sharing).
+You can always hit me up on [Linkedin](https://www.linkedin.com/in/shitu13/). To Know more about my experiences check out [My Resume](https://drive.google.com/file/d/1PDaBXqfqZKAZ4YNYErt_2FzIwCImDhSr/view?usp=sharing).
