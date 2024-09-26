@@ -19,7 +19,7 @@ void life(Node* problem) {
 }
 ```
 
-<p align="left"> I love metaphysical poetry but not as much as solving various problems. How I see life is a list of problems that are linked to one another. We solve one and move to the next one. So is engineering, we face problems, we overcome the barrier, we learn from them and move to the next one. Happy but never satisfied. And that's what makes things meaningful, cause we know no one can solve all the problems on his/her own be it engineering or be it life.
+<p align="left"> I love metaphysical poetry as much as solving various problems. How I see life is a list of problems that are linked to one another. We solve one and move to the next one. So is engineering, we face problem, we overcome the barrier, we learn from it and move to the next one. Happy but never satisfied. And that is what makes things meaningful, cause we know no one can solve all the problems on his/her own be it engineering or be it life.
 
 Metaphysical Poetry apart, I have a sound understanding of the following core CS subjects.
 - Data Structures & Algorithms
@@ -35,4 +35,4 @@ Metaphysical Poetry apart, I have a sound understanding of the following core CS
 ## 👨 Socials
 Feel free to check out my progress on various coding platforms. Btw, I mostly use leetcode nowadays. You can find all my problem solving stats on  [Codolio.](https://codolio.com/profile/shitu)
 
-You can always hit me up on [Linkedin](https://www.linkedin.com/in/shitu13/). To Know more about my experiences check out [My Resume](https://drive.google.com/file/d/1PDaBXqfqZKAZ4YNYErt_2FzIwCImDhSr/view?usp=sharing).
+You can always hit me up on [Linkedin](https://www.linkedin.com/in/shitu13/). To Know more about my experiences check out [My Resume](https://drive.google.com/file/d/1wIHXcOHR_AtDXsLhF15LPWJo0HXlWRIl/view?usp=sharing).
